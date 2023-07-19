@@ -1,44 +1,27 @@
-
 .task{
+    background-image: url(https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2018Q4/devops-process-flow/devops-process-flow-header@2x.png);
     width: 100%;
+    height: 700px;
+    
 }
-.task .task-layer{
-    position: absolute;
-    bottom: 30%;
-    left: 0;
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: center;
-    flex-direction: left;
-    color: black;
 
-}
-.task h3{
-    color: black;
-    margin-left: 0%;
-    margin-right: 80%;
-    margin-bottom: 80%;
-    top: 0%;
-
-}
-img{
-    width: 70%;
-    height: 80%;
-    padding-top: 100px;
-    box-shadow: 15px 15px 15px lightblue;
-}
-h1{
+.head{
+    margin-left: 10%;
+    padding-top: 3%;
+    font-size: 200%;
     color: whitesmoke;
 }
-span {
-    background-color: orange;
-    color: whitesmoke;
 
-}
 .text{
-    position: absolute;
-    bottom: 250px;
-    margin-left: 3%;
-    text-shadow: 2px 2px 5px whitesmoke;
+    margin-top: 100px;
+    margin-left: 5%;
+    font-size: 200%;
+    color: whitesmoke;
 }
+
+span{
+    background-color:#fead01; 
+    
+}
+
+
